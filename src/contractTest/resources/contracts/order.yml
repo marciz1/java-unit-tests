@@ -1,0 +1,12 @@
+request:
+  method: GET
+  url: /orders/1
+response:
+  status: 200
+  body:
+    id: "id"
+    userId: "userId"
+    productsIds: [ "123", "1234" ]
+    status: "CREATED"
+  headers:
+    Content-Type: application/json
