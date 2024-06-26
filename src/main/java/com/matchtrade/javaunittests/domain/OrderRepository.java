@@ -1,6 +1,6 @@
-package com.matchtrade.javaunittests.domain.domain;
+package com.matchtrade.javaunittests.domain;
 
-import com.matchtrade.javaunittests.domain.domain.model.Order;
+import com.matchtrade.javaunittests.domain.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -4,9 +4,10 @@ request:
 response:
   status: 200
   body:
-    id: "id"
+    id: "1"
     userId: "userId"
-    productsIds: [ "123", "1234" ]
+    productIds: [ "123", "1234" ]
     status: "CREATED"
   headers:
     Content-Type: application/json
+

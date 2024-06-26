@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/nco-mtr-autotest-account
+    username: coadmin
+    password: abc123

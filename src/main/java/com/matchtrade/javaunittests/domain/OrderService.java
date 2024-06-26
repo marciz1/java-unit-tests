@@ -1,7 +1,7 @@
-package com.matchtrade.javaunittests.domain.domain;
+package com.matchtrade.javaunittests.domain;
 
-import com.matchtrade.javaunittests.domain.domain.model.Order;
-import com.matchtrade.javaunittests.domain.domain.model.OrderStatus;
+import com.matchtrade.javaunittests.domain.model.Order;
+import com.matchtrade.javaunittests.domain.model.OrderStatus;
 import java.util.Optional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

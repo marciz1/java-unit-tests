@@ -1,4 +1,4 @@
-package com.matchtrade.javaunittests.domain.domain;
+package com.matchtrade.javaunittests.domain;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;

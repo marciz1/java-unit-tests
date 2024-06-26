@@ -1,4 +1,4 @@
-package com.matchtrade.javaunittests.domain.domain.model;
+package com.matchtrade.javaunittests.domain.model;
 
 import jakarta.persistence.ElementCollection;
 import jakarta.persistence.Entity;
